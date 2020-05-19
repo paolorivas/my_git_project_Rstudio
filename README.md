@@ -1,0 +1,2 @@
+# prueba_dominio
+Examen_conocimiento_STATA_en_python
